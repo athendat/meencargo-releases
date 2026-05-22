@@ -9,16 +9,13 @@ integración continua (CI).
 
 ## Descargas
 
-Las versiones están en la sección [**Releases**](../../releases).
+Cada app tiene un release de tag fijo que se actualiza en cada compilación.
+Los siguientes enlaces apuntan siempre a la última versión publicada:
 
-- **App de Choferes** — `app_drivers_nhcargo_universal.apk`
-- **App de Clientes** — `app_clients_nhcargo_universal.apk`
-
-Enlace estable a la última versión:
-
-```
-https://github.com/athendat/meencargo-releases/releases/latest/download/<archivo>.apk
-```
+| App | Enlace estable de descarga |
+|-----|----------------------------|
+| **App de Choferes** | `releases/download/driver-latest/app_drivers_nhcargo_universal.apk` |
+| **App de Clientes** | `releases/download/client-latest/app_clients_nhcargo_universal.apk` |
 
 ## Verificación de integridad
 
