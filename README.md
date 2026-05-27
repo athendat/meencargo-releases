@@ -1,7 +1,7 @@
 # ME ENCARGO — Releases
 
 Este repositorio aloja únicamente las **descargas públicas** de las aplicaciones
-móviles de **ME ENCARGO** (NH Cargo).
+móviles de **ME ENCARGO**.
 
 No contiene código fuente. El código de las apps se mantiene en repositorios
 privados; aquí solo se publican los APK firmados que genera automáticamente la
@@ -14,8 +14,8 @@ Los siguientes enlaces apuntan siempre a la última versión publicada:
 
 | App | Enlace estable de descarga |
 |-----|----------------------------|
-| **App de Choferes** | `releases/download/driver-latest/app_drivers_nhcargo_universal.apk` |
-| **App de Clientes** | `releases/download/client-latest/app_clients_nhcargo_universal.apk` |
+| **App de Choferes** | `releases/download/driver-latest/app_drivers_meencargo_universal.apk` |
+| **App de Clientes** | `releases/download/client-latest/app_clients_meencargo_universal.apk` |
 
 ## Verificación de integridad
 
